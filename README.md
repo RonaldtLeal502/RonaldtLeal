@@ -106,9 +106,7 @@ Proyecto de análisis de datos para optimización de costos y patrones de comuni
 
 - 📧 **Email:** [ronaldtleal11@gmail.com]
 - 💼 **LinkedIn:** [linkedin.com/in/ronaldt-leal]([https://linkedin.com/in/ronaldt-leal](https://www.linkedin.com/in/ronaldt-leal-b629ba346/))
-- 🐙 **GitHub:** [github.com/ronaldtleal](https://github.com/ronaldtleal)
-- 📊 **Tableau Public:** [public.tableau.com/profile/ronaldtleal](https://public.tableau.com/profile/ronaldtleal)
-- 🌐 **Portafolio:** [tu-sitio-web.com](https://tu-sitio-web.com)
+- 🐙 **GitHub:** [github.com/ronaldtleal]([https://github.com/ronaldtleal](https://github.com/RonaldtLeal502))
 - 📍 **Ubicación:** Cancún, Quintana Roo, México
 
 ---
