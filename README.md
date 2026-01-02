@@ -1,5 +1,5 @@
 # Ronaldt Leal
-<img width="746" height="448" alt="image" src="https://github.com/user-attachments/assets/339ef48c-568d-44e0-ad99-a8354502dc12" />
+<img width="386" height="448" alt="image" src="https://github.com/user-attachments/assets/339ef48c-568d-44e0-ad99-a8354502dc12" />
 
 
 **Ingeniero de Datos e Inteligencia Organizacional**
