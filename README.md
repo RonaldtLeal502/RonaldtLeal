@@ -1,4 +1,6 @@
 # Ronaldt Leal
+![yo](https://github.com/user-attachments/assets/84550648-103b-4ee3-a06d-633a0d01047d)
+
 **Ingeniero de Datos e Inteligencia Organizacional**
 
 ---
