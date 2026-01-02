@@ -1,6 +1,6 @@
 # Ronaldt Leal
 
-https://media.licdn.com/dms/image/v2/D4E03AQE0eeLLchDP0g/profile-displayphoto-scale_400_400/B4EZm2XaR7GcAg-/0/1759701214817?e=1769040000&v=beta&t=54lLRzW4vTA2J7Up9aQic5FbQ4PExCRuQ0NQwP5GL-U
+<img src="tu-foto.jpg" alt="Ronaldt Leal" width="150" style="border-radius: 50%;">
 
 **Ingeniero de Datos e Inteligencia Organizacional**
 
