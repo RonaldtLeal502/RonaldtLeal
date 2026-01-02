@@ -73,8 +73,8 @@ Proyecto de análisis de datos para optimización de costos y patrones de comuni
 
 ## 🎓 Educación
 
-**[Título/Grado] en Ingeniería de Datos e Inteligencia Organizacional**  
-*[Universidad] - [Año de Graduación]*
+**[Ingeniería de Datos e Inteligencia Organizacional] en Ingeniería de Datos e Inteligencia Organizacional**  
+*[Universidad del Caribe] - [2021-2026]*
 
 ### Cursos y Certificaciones
 - **Google Data Analytics Professional Certificate** (Coursera)
@@ -111,4 +111,3 @@ Proyecto de análisis de datos para optimización de costos y patrones de comuni
 
 ---
 
-> *"Recién egresado y listo para transformar datos en decisiones. Cada dataset es una oportunidad para aprender y cada proyecto, un paso hacia la excelencia en ingeniería de datos."*
