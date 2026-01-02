@@ -1,6 +1,6 @@
 # Ronaldt Leal
+<img width="746" height="698" alt="image" src="https://github.com/user-attachments/assets/339ef48c-568d-44e0-ad99-a8354502dc12" />
 
-<img src="tu-foto.jpg" alt="Ronaldt Leal" width="150" style="border-radius: 50%;">
 
 **Ingeniero de Datos e Inteligencia Organizacional**
 
@@ -57,6 +57,10 @@ Sistema integral para el control y gestión de inventario del laboratorio de ele
 - Diseñé la base de datos relacional para optimizar consultas y reportes
 - Creé dashboards interactivos para visualizar el estado del inventario y patrones de uso
 - **Tecnologías:** React, SQL, Material UI
+<img width="777" height="441" alt="image" src="https://github.com/user-attachments/assets/406d9f7e-5399-4e1f-a269-cb666bec18a6" />
+<img width="795" height="385" alt="image" src="https://github.com/user-attachments/assets/71e46c0d-0ab1-476c-8e08-5d9ab8801ebe" />
+
+
 
 ### Análisis de Sábanas Telefónicas
 **FarFay Group**
@@ -68,6 +72,10 @@ Proyecto de análisis de datos para optimización de costos y patrones de comuni
 - Realicé análisis estadístico para detectar anomalías y oportunidades de ahorro
 - Generé reportes ejecutivos con recomendaciones basadas en datos
 - **Tecnologías:** React, SQL, Material UI
+<img width="1856" height="1030" alt="image" src="https://github.com/user-attachments/assets/a88d67f1-ebdd-4f7b-b72f-80c5e8ba7321" />
+<img width="1863" height="925" alt="image" src="https://github.com/user-attachments/assets/d7348f05-c3db-4220-b41e-1c11a0c188cd" />
+
+
 
 ---
 
