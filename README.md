@@ -5,115 +5,118 @@
 
 ## 👨‍💻 Sobre Mí
 
-Ingeniero de Datos especializado en transformar datos complejos en insights estratégicos que impulsan la toma de decisiones organizacionales. Con experiencia en arquitectura de datos, análisis avanzado y visualización de información, me enfoco en construir soluciones escalables que generen valor real para el negocio.
-
----
-
-## 💼 Experiencia Profesional
-
-### Ingeniero de Datos Senior | [Nombre de la Empresa]
-*[Mes/Año] - Presente*
-
-Lidero iniciativas de datos que han optimizado procesos de negocio y habilitado capacidades analíticas avanzadas para equipos multifuncionales.
-
-- Diseñé e implementé pipelines de datos que procesan [X cantidad] de registros diarios, reduciendo tiempos de procesamiento en [X]%
-- Desarrollé dashboards ejecutivos que proporcionan visibilidad en tiempo real de KPIs críticos del negocio
-- Colaboré con stakeholders para traducir necesidades de negocio en soluciones técnicas de datos
-
-**Tecnologías:** Python, SQL, Apache Spark, Airflow, Tableau/Power BI, AWS/Azure/GCP
-
-### Analista de Inteligencia de Negocios | [Nombre de la Empresa]
-*[Mes/Año] - [Mes/Año]*
-
-Construí capacidades de análisis que permitieron identificar oportunidades de mejora y optimización en procesos clave.
-
-- Automaticé reportes mensuales, liberando [X] horas de trabajo manual
-- Realicé análisis predictivos que mejoraron la precisión de forecasting en [X]%
-- Implementé modelos de segmentación que incrementaron la efectividad de campañas en [X]%
-
-**Tecnologías:** Python, R, SQL, Excel Avanzado, Power BI
+Recién egresado como Ingeniero de Datos e Inteligencia Organizacional, apasionado por transformar datos en información valiosa que impulse decisiones estratégicas. Con conocimientos sólidos en análisis de datos, visualización y desarrollo web, busco mi primera oportunidad profesional donde pueda aplicar mis habilidades técnicas y seguir aprendiendo en un entorno dinámico.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
 ### Lenguajes de Programación
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL (PostgreSQL, MySQL, SQL Server)
-- R
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **SQL:** MySQL, PostgreSQL
+- **JavaScript:** Fundamentos para desarrollo web
+- **R:** Análisis estadístico básico
 
-### Herramientas de Big Data
-- Apache Spark
-- Apache Kafka
-- Hadoop Ecosystem
+### Análisis y Visualización de Datos
+- **Power BI:** Creación de dashboards interactivos, DAX, Power Query
+- **Tableau:** Visualizaciones dinámicas y storytelling con datos
+- **Excel Avanzado:** Tablas dinámicas, fórmulas complejas, macros VBA
+- **Google Colab:** Desarrollo de notebooks para análisis exploratorio
 
-### Orquestación y ETL
-- Apache Airflow
-- DBT
-- Talend
+### Desarrollo Web
+- **React:** Componentes, hooks, manejo de estado
+- **HTML/CSS:** Maquetado y diseño responsivo
+- **JavaScript:** Manipulación del DOM, fetch API
 
-### Visualización de Datos
-- Tableau
-- Power BI
-- Looker
+### Herramientas y Entornos
+- Jupyter Notebook / Google Colab
+- Git & GitHub
+- Google Sheets / Google Data Studio
+- VS Code
+- Anaconda
 
-### Cloud Computing
-- AWS (Redshift, S3, Lambda, Glue)
-- Azure (Synapse, Data Factory)
-- Google Cloud Platform (BigQuery, Dataflow)
-
-### Bases de Datos
-- **Relacionales:** PostgreSQL, MySQL
-- **NoSQL:** MongoDB, Cassandra
-- **Data Warehouses:** Snowflake, Redshift
+### Conceptos y Metodologías
+- ETL (Extract, Transform, Load)
+- Limpieza y preparación de datos
+- Análisis exploratorio de datos (EDA)
+- Estadística descriptiva e inferencial
+- Modelado de datos
+- Visualización efectiva de información
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos Académicos y Personales
 
-### Sistema de Inteligencia de Mercado
-Plataforma integral que consolida fuentes de datos externas e internas para análisis competitivo.
+### Dashboard de Ventas en Power BI
+Proyecto de visualización de datos para análisis de ventas de una empresa retail ficticia.
 
-- Integré múltiples APIs y fuentes de datos en un data warehouse centralizado
-- Desarrollé modelos de análisis de sentimiento para monitoreo de marca
-- **Impacto:** Reducción de 60% en tiempo de análisis competitivo
+- Diseñé un modelo de datos relacional conectando múltiples tablas
+- Creé medidas DAX personalizadas para KPIs como crecimiento YoY y margen de contribución
+- Desarrollé visualizaciones interactivas con filtros dinámicos y drill-through
+- **Tecnologías:** Power BI, Power Query, DAX, Excel
 
-### Optimización de Cadena de Suministro
-Proyecto de analytics avanzado para predecir demanda y optimizar inventarios.
+### Análisis de Datos de COVID-19 con Python
+Proyecto de análisis exploratorio utilizando datos públicos de la pandemia.
 
-- Implementé modelos de machine learning para forecasting de demanda
-- Construí pipeline de datos en tiempo real para tracking de inventario
-- **Impacto:** Reducción de 25% en costos de inventario
+- Realicé limpieza y transformación de datasets con más de 100K registros
+- Generé visualizaciones con Matplotlib y Seaborn para identificar tendencias
+- Apliqué técnicas de análisis estadístico para comparar países y regiones
+- **Tecnologías:** Python (Pandas, NumPy, Matplotlib, Seaborn), Google Colab
 
-### Dashboard Ejecutivo de KPIs
-Solución de visualización que proporciona insights accionables a nivel C-suite.
+### Aplicación Web de Análisis de Datos
+Dashboard web interactivo para visualizar datos en tiempo real.
 
-- Diseñé arquitectura de datos que consolida información de 15+ sistemas
-- Creé dashboards interactivos con drill-down capabilities
-- **Impacto:** Decisiones estratégicas 40% más rápidas
+- Desarrollé el frontend con React y componentes reutilizables
+- Integré API REST para consumir datos externos
+- Implementé gráficos interactivos usando bibliotecas de visualización
+- **Tecnologías:** React, JavaScript, HTML/CSS, Chart.js
+
+### Tableau Public - Portafolio de Visualizaciones
+Colección de visualizaciones sobre diversos datasets públicos.
+
+- Creé historias visuales sobre temas de sostenibilidad y economía
+- Diseñé dashboards interactivos con best practices de UX/UI
+- Publiqué visualizaciones en Tableau Public para portfolio
+- **Tecnologías:** Tableau, Excel, CSV
+
+### Sistema de Predicción de Precios con Machine Learning
+Modelo predictivo para estimar precios de viviendas usando regresión lineal.
+
+- Preparé y limpié dataset con más de 1000 registros
+- Entrené modelo de regresión con Scikit-learn
+- Evalué el modelo usando métricas como RMSE y R²
+- **Tecnologías:** Python (Scikit-learn, Pandas), Jupyter Notebook
 
 ---
 
 ## 🎓 Educación
 
-**[Título/Grado] en [Especialidad]**  
-*[Universidad] - [Año]*
+**[Título/Grado] en Ingeniería de Datos e Inteligencia Organizacional**  
+*[Universidad] - [Año de Graduación]*
 
-### Certificaciones
-- [Certificación relevante, ej: AWS Certified Data Analytics]
-- [Certificación relevante, ej: Microsoft Certified: Azure Data Engineer Associate]
-- [Certificación relevante, ej: Google Cloud Professional Data Engineer]
+### Cursos y Certificaciones
+- **Google Data Analytics Professional Certificate** (Coursera)
+- **Python for Data Science** (DataCamp/Udemy)
+- **Power BI: De Básico a Avanzado** (Udemy)
+- **Tableau Desktop Specialist**
+- **SQL para Análisis de Datos** (Codecademy)
+- **React - The Complete Guide** (Udemy)
 
 ---
 
 ## 💡 Competencias Clave
 
-- Diseño y arquitectura de data warehouses
-- Modelado dimensional y optimización de consultas
-- Machine learning aplicado a problemas de negocio
-- Storytelling con datos y comunicación a stakeholders
-- Metodologías ágiles y trabajo colaborativo
-- Gobierno de datos y calidad de información
+- Análisis exploratorio de datos (EDA)
+- Limpieza y transformación de datos
+- Visualización efectiva de información
+- Creación de dashboards interactivos
+- Consultas SQL y manipulación de bases de datos
+- Programación en Python para análisis de datos
+- Desarrollo de componentes web con React
+- Storytelling con datos
+- Pensamiento analítico y resolución de problemas
+- Aprendizaje rápido y adaptabilidad
+- Trabajo en equipo y comunicación efectiva
 
 ---
 
@@ -122,9 +125,10 @@ Solución de visualización que proporciona insights accionables a nivel C-suite
 - 📧 **Email:** [tu-email@ejemplo.com]
 - 💼 **LinkedIn:** [linkedin.com/in/ronaldt-leal](https://linkedin.com/in/ronaldt-leal)
 - 🐙 **GitHub:** [github.com/ronaldtleal](https://github.com/ronaldtleal)
+- 📊 **Tableau Public:** [public.tableau.com/profile/ronaldtleal](https://public.tableau.com/profile/ronaldtleal)
 - 🌐 **Portafolio:** [tu-sitio-web.com](https://tu-sitio-web.com)
-- 📍 **Ubicación:** [Tu ciudad, país]
+- 📍 **Ubicación:** Cancún, Quintana Roo, México
 
 ---
 
-> *"Los datos son el nuevo petróleo, pero sin refinación, son solo información sin procesar. Mi misión es transformar datos en decisiones inteligentes."*
+> *"Recién egresado y listo para transformar datos en decisiones. Cada dataset es una oportunidad para aprender y cada proyecto, un paso hacia la excelencia en ingeniería de datos."*
