@@ -1,5 +1,7 @@
 # Ronaldt Leal
-![yo](https://github.com/user-attachments/assets/84550648-103b-4ee3-a06d-633a0d01047d)
+
+<img src="![yo](https://github.com/user-attachments/assets/e76a32d3-082d-44b4-8276-38e8dcfa696e)
+" alt="Ronaldt Leal" width="150" style="border-radius: 50%;">
 
 **Ingeniero de Datos e Inteligencia Organizacional**
 
