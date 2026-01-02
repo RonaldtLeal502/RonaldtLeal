@@ -8,9 +8,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Recién egresado como Ingeniero de Datos e Inteligencia Organizacional, apasionado por transformar datos en información valiosa que impulse decisiones estratégicas. Con conocimientos sólidos en análisis de datos, visualización y desarrollo web, busco mi primera oportunidad profesional donde pueda aplicar mis habilidades técnicas y seguir aprendiendo en un entorno dinámico.
-
----
+Recién egresado como Ingeniero de Datos e Inteligencia Organizacional, apasionado por transformar datos en información valiosa que impulse decisiones estratégicas. 
 
 ## 🛠️ Habilidades Técnicas
 
@@ -23,7 +21,7 @@ Recién egresado como Ingeniero de Datos e Inteligencia Organizacional, apasiona
 ### Análisis y Visualización de Datos
 - **Power BI:** Creación de dashboards interactivos, DAX, Power Query
 - **Tableau:** Visualizaciones dinámicas y storytelling con datos
-- **Excel Avanzado:** Tablas dinámicas, fórmulas complejas, macros VBA
+- **Excel:** Tablas dinámicas, fórmulas complejas, macros VBA
 - **Google Colab:** Desarrollo de notebooks para análisis exploratorio
 
 ### Desarrollo Web
@@ -36,7 +34,6 @@ Recién egresado como Ingeniero de Datos e Inteligencia Organizacional, apasiona
 - Git & GitHub
 - Google Sheets / Google Data Studio
 - VS Code
-- Anaconda
 
 ### Conceptos y Metodologías
 - ETL (Extract, Transform, Load)
@@ -59,7 +56,7 @@ Sistema integral para el control y gestión de inventario del laboratorio de ele
 - Implementé funcionalidades de préstamo, devolución y control de stock en tiempo real
 - Diseñé la base de datos relacional para optimizar consultas y reportes
 - Creé dashboards interactivos para visualizar el estado del inventario y patrones de uso
-- **Tecnologías:** React, Python, SQL, Excel
+- **Tecnologías:** React, SQL, Material UI
 
 ### Análisis de Sábanas Telefónicas
 **FarFay Group**
@@ -70,7 +67,7 @@ Proyecto de análisis de datos para optimización de costos y patrones de comuni
 - Desarrollé dashboards en Power BI para visualizar costos por departamento, horarios pico y tendencias
 - Realicé análisis estadístico para detectar anomalías y oportunidades de ahorro
 - Generé reportes ejecutivos con recomendaciones basadas en datos
-- **Tecnologías:** Power BI, Excel, Python, SQL
+- **Tecnologías:** React, SQL, Material UI
 
 ---
 
@@ -107,8 +104,8 @@ Proyecto de análisis de datos para optimización de costos y patrones de comuni
 
 ## 📬 Contacto
 
-- 📧 **Email:** [tu-email@ejemplo.com]
-- 💼 **LinkedIn:** [linkedin.com/in/ronaldt-leal](https://linkedin.com/in/ronaldt-leal)
+- 📧 **Email:** [ronaldtleal11@gmail.com]
+- 💼 **LinkedIn:** [linkedin.com/in/ronaldt-leal]([https://linkedin.com/in/ronaldt-leal](https://www.linkedin.com/in/ronaldt-leal-b629ba346/))
 - 🐙 **GitHub:** [github.com/ronaldtleal](https://github.com/ronaldtleal)
 - 📊 **Tableau Public:** [public.tableau.com/profile/ronaldtleal](https://public.tableau.com/profile/ronaldtleal)
 - 🌐 **Portafolio:** [tu-sitio-web.com](https://tu-sitio-web.com)
