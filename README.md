@@ -45,47 +45,29 @@ Recién egresado como Ingeniero de Datos e Inteligencia Organizacional, apasiona
 
 ---
 
-## 🚀 Proyectos Académicos y Personales
+## 🚀 Proyectos
 
-### Dashboard de Ventas en Power BI
-Proyecto de visualización de datos para análisis de ventas de una empresa retail ficticia.
+### Sistema de Gestión de Materiales - Laboratorio de Electrónica
+**Universidad del Caribe**
 
-- Diseñé un modelo de datos relacional conectando múltiples tablas
-- Creé medidas DAX personalizadas para KPIs como crecimiento YoY y margen de contribución
-- Desarrollé visualizaciones interactivas con filtros dinámicos y drill-through
-- **Tecnologías:** Power BI, Power Query, DAX, Excel
+Sistema integral para el control y gestión de inventario del laboratorio de electrónica universitario.
 
-### Análisis de Datos de COVID-19 con Python
-Proyecto de análisis exploratorio utilizando datos públicos de la pandemia.
+- Desarrollé una aplicación web para el registro y seguimiento de materiales y componentes electrónicos
+- Implementé funcionalidades de préstamo, devolución y control de stock en tiempo real
+- Diseñé la base de datos relacional para optimizar consultas y reportes
+- Creé dashboards interactivos para visualizar el estado del inventario y patrones de uso
+- **Tecnologías:** React, Python, SQL, Excel
 
-- Realicé limpieza y transformación de datasets con más de 100K registros
-- Generé visualizaciones con Matplotlib y Seaborn para identificar tendencias
-- Apliqué técnicas de análisis estadístico para comparar países y regiones
-- **Tecnologías:** Python (Pandas, NumPy, Matplotlib, Seaborn), Google Colab
+### Análisis de Sábanas Telefónicas
+**FarFay Group**
 
-### Aplicación Web de Análisis de Datos
-Dashboard web interactivo para visualizar datos en tiempo real.
+Proyecto de análisis de datos para optimización de costos y patrones de comunicación empresarial.
 
-- Desarrollé el frontend con React y componentes reutilizables
-- Integré API REST para consumir datos externos
-- Implementé gráficos interactivos usando bibliotecas de visualización
-- **Tecnologías:** React, JavaScript, HTML/CSS, Chart.js
-
-### Tableau Public - Portafolio de Visualizaciones
-Colección de visualizaciones sobre diversos datasets públicos.
-
-- Creé historias visuales sobre temas de sostenibilidad y economía
-- Diseñé dashboards interactivos con best practices de UX/UI
-- Publiqué visualizaciones en Tableau Public para portfolio
-- **Tecnologías:** Tableau, Excel, CSV
-
-### Sistema de Predicción de Precios con Machine Learning
-Modelo predictivo para estimar precios de viviendas usando regresión lineal.
-
-- Preparé y limpié dataset con más de 1000 registros
-- Entrené modelo de regresión con Scikit-learn
-- Evalué el modelo usando métricas como RMSE y R²
-- **Tecnologías:** Python (Scikit-learn, Pandas), Jupyter Notebook
+- Procesé y limpié grandes volúmenes de registros telefónicos para identificar patrones de uso
+- Desarrollé dashboards en Power BI para visualizar costos por departamento, horarios pico y tendencias
+- Realicé análisis estadístico para detectar anomalías y oportunidades de ahorro
+- Generé reportes ejecutivos con recomendaciones basadas en datos
+- **Tecnologías:** Power BI, Excel, Python, SQL
 
 ---
 
