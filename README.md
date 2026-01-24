@@ -1,121 +1,99 @@
+<div align="center">
+
 # Ronaldt Leal
-<img width="186" height="248" alt="image" src="https://github.com/user-attachments/assets/339ef48c-568d-44e0-ad99-a8354502dc12" />
+### Ingeniero de Datos e Inteligencia Organizacional
 
+<img src="https://github.com/user-attachments/assets/339ef48c-568d-44e0-ad99-a8354502dc12" width="180" style="border-radius: 50%;" />
 
-**Ingeniero de Datos e Inteligencia Organizacional**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronaldt-leal-b629ba346/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldtleal11@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Location-Cancún,_MX-lightgrey?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre Mí
 
-Recién egresado como Ingeniero de Datos e Inteligencia Organizacional, apasionado por transformar datos en información valiosa que impulse decisiones estratégicas. 
-
-## 🛠️ Habilidades Técnicas
-
-### Lenguajes de Programación
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **SQL:** MySQL, PostgreSQL
-- **JavaScript:** Fundamentos para desarrollo web
-- **R:** Análisis estadístico básico
-
-### Análisis y Visualización de Datos
-- **Power BI:** Creación de dashboards interactivos, DAX, Power Query
-- **Tableau:** Visualizaciones dinámicas y storytelling con datos
-- **Excel:** Tablas dinámicas, fórmulas complejas, macros VBA
-- **Google Colab:** Desarrollo de notebooks para análisis exploratorio
-
-### Desarrollo Web
-- **React:** Componentes, hooks, manejo de estado
-- **HTML/CSS:** Maquetado y diseño responsivo
-- **JavaScript:** Manipulación del DOM, fetch API
-
-### Herramientas y Entornos
-- Jupyter Notebook / Google Colab
-- Git & GitHub
-- Google Sheets / Google Data Studio
-- VS Code
-
-### Conceptos y Metodologías
-- ETL (Extract, Transform, Load)
-- Limpieza y preparación de datos
-- Análisis exploratorio de datos (EDA)
-- Estadística descriptiva e inferencial
-- Modelado de datos
-- Visualización efectiva de información
+Ingeniero de Datos e Inteligencia Organizacional apasionado por construir arquitecturas de datos sólidas y transformar grandes volúmenes de información en **decisiones estratégicas**. Mi enfoque combina el desarrollo de pipelines eficientes (ETL), el análisis estadístico avanzado y la visualización de datos de alto impacto.
 
 ---
 
-## 🚀 Proyectos
+## 🛠️ Stack Tecnológico
 
-### Sistema de Gestión de Materiales - Laboratorio de Electrónica
+### 🗄️ Ingeniería y Análisis de Datos
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+### 📊 Visualización e Inteligencia de Negocios
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### 💻 Desarrollo y Herramientas
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🏷️ Sistema de Gestión de Materiales | Laboratorio de Electrónica
 **Universidad del Caribe**
 
-Sistema integral para el control y gestión de inventario del laboratorio de electrónica universitario.
+Sistema integral para el control y gestión de inventario, optimizando el flujo de activos del laboratorio.
+- **Data Engineering:** Diseño de base de datos relacional normalizada para garantizar la integridad de la información.
+- **Desarrollo:** Creación de una SPA con **React** para el seguimiento de stock en tiempo real.
+- **Analytics:** Dashboards interactivos para predecir necesidades de reabastecimiento basándose en patrones de uso.
+- **Stack:** `React`, `SQL`, `Material UI`.
 
-- Desarrollé una aplicación web para el registro y seguimiento de materiales y componentes electrónicos
-- Implementé funcionalidades de préstamo, devolución y control de stock en tiempo real
-- Diseñé la base de datos relacional para optimizar consultas y reportes
-- Creé dashboards interactivos para visualizar el estado del inventario y patrones de uso
-- **Tecnologías:** React, SQL, Material UI
-<img width="777" height="441" alt="image" src="https://github.com/user-attachments/assets/406d9f7e-5399-4e1f-a269-cb666bec18a6" />
-<img width="795" height="385" alt="image" src="https://github.com/user-attachments/assets/71e46c0d-0ab1-476c-8e08-5d9ab8801ebe" />
-
-
-
-### Análisis de Sábanas Telefónicas
-**FarFay Group**
-
-Proyecto de análisis de datos para optimización de costos y patrones de comunicación empresarial.
-
-- Procesé y limpié grandes volúmenes de registros telefónicos para identificar patrones de uso
-- Desarrollé dashboards en Power BI para visualizar costos por departamento, horarios pico y tendencias
-- Realicé análisis estadístico para detectar anomalías y oportunidades de ahorro
-- Generé reportes ejecutivos con recomendaciones basadas en datos
-- **Tecnologías:** React, SQL, Material UI
-<img width="1856" height="1030" alt="image" src="https://github.com/user-attachments/assets/a88d67f1-ebdd-4f7b-b72f-80c5e8ba7321" />
-<img width="1863" height="925" alt="image" src="https://github.com/user-attachments/assets/d7348f05-c3db-4220-b41e-1c11a0c188cd" />
-
-
+<p align="center">
+  <img width="45%" src="https://github.com/user-attachments/assets/406d9f7e-5399-4e1f-a269-cb666bec18a6" />
+  <img width="45%" src="https://github.com/user-attachments/assets/71e46c0d-0ab1-476c-8e08-5d9ab8801ebe" />
+</p>
 
 ---
 
-## 🎓 Educación
+### 📞 Análisis de Sábanas Telefónicas | FarFay Group
+**Optimización de costos y auditoría de datos**
 
-**[Ingeniería de Datos e Inteligencia Organizacional] en Ingeniería de Datos e Inteligencia Organizacional**  
-*[Universidad del Caribe] - [2021-2026]*
+Procesamiento de grandes volúmenes de datos telefónicos para identificación de ineficiencias operativas.
+- **ETL:** Limpieza y transformación de registros crudos (Raw Data) para su ingesta en herramientas de BI.
+- **Análisis Estadístico:** Identificación de anomalías de consumo y detección de patrones de comunicación empresarial.
+- **Impacto:** Reportes ejecutivos que permitieron la reducción de costos mediante la optimización de planes telefónicos.
+- **Stack:** `Power BI`, `Python (Pandas)`, `SQL`.
 
-### Cursos y Certificaciones
-- **Google Data Analytics Professional Certificate** (Coursera)
-- **Python for Data Science** (DataCamp/Udemy)
-- **Power BI: De Básico a Avanzado** (Udemy)
-- **Tableau Desktop Specialist**
-- **SQL para Análisis de Datos** (Codecademy)
-- **React - The Complete Guide** (Udemy)
-
----
-
-## 💡 Competencias Clave
-
-- Análisis exploratorio de datos (EDA)
-- Limpieza y transformación de datos
-- Visualización efectiva de información
-- Creación de dashboards interactivos
-- Consultas SQL y manipulación de bases de datos
-- Programación en Python para análisis de datos
-- Desarrollo de componentes web con React
-- Storytelling con datos
-- Pensamiento analítico y resolución de problemas
-- Aprendizaje rápido y adaptabilidad
-- Trabajo en equipo y comunicación efectiva
+<p align="center">
+  <img width="45%" src="https://github.com/user-attachments/assets/a88d67f1-ebdd-4f7b-b72f-80c5e8ba7321" />
+  <img width="45%" src="https://github.com/user-attachments/assets/d7348f05-c3db-4220-b41e-1c11a0c188cd" />
+</p>
 
 ---
 
-## 📬 Contacto
+## 🎓 Educación y Certificaciones
 
-- 📧 **Email:** [ronaldtleal11@gmail.com]
-- 💼 **LinkedIn:** [linkedin.com/in/ronaldt-leal]([https://linkedin.com/in/ronaldt-leal](https://www.linkedin.com/in/ronaldt-leal-b629ba346/))
-- 🐙 **GitHub:** [github.com/ronaldtleal]([https://github.com/ronaldtleal](https://github.com/RonaldtLeal502))
-- 📍 **Ubicación:** Cancún, Quintana Roo, México
+- 🎓 **Ingeniería de Datos e Inteligencia Organizacional** | Universidad del Caribe (2021-2026)
+- 📜 **Google Data Analytics Professional Certificate** (Coursera)
+- 📜 **Tableau Desktop Specialist**
+- 📜 **Python for Data Science** (DataCamp)
+- 📜 **SQL para Análisis de Datos** (Codecademy)
 
 ---
 
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldtLeal502&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldtLeal502&layout=compact&theme=radical"/>
+</p>
+
+---
+
+<div align="center">
+  <em>"Transformando datos en activos estratégicos"</em>
+</div>
