@@ -9,7 +9,7 @@ Recién egresado con enfoque en la arquitectura y análisis de datos. Mi objetiv
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 **Lenguajes y Bases de Datos** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,9 +29,9 @@ Recién egresado con enfoque en la arquitectura y análisis de datos. Mi objetiv
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
-### 🏗️ Sistema de Gestión de Materiales | Lab. de Electrónica
+###  Sistema de Gestión de Materiales | Lab. de Electrónica
 *Universidad del Caribe*
 
 Plataforma integral para la administración y control de inventario, optimizando el flujo de activos del laboratorio.
@@ -46,7 +46,7 @@ Plataforma integral para la administración y control de inventario, optimizando
 
 ---
 
-### 📞 Análisis de Sábanas Telefónicas | FarFay Group
+###  Análisis de Sábanas Telefónicas | FarFay Group
 *Business Intelligence & Optimization*
 
 Procesamiento y análisis de grandes volúmenes de datos para la optimización de costos operativos.
@@ -61,7 +61,7 @@ Procesamiento y análisis de grandes volúmenes de datos para la optimización d
 
 ---
 
-## 🎓 Educación y Certificaciones
+##  Educación y Certificaciones
 
 * **Ingeniería de Datos e Inteligencia Organizacional** – Universidad del Caribe (2021-2026)
 * **Google Data Analytics Professional Certificate** – Coursera
@@ -70,7 +70,7 @@ Procesamiento y análisis de grandes volúmenes de datos para la optimización d
 
 ---
 
-## 📈 Estadísticas de GitHub
+##  Estadísticas de GitHub
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RonaldtLeal502&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldtLeal502&layout=compact&theme=radical"/>
@@ -78,7 +78,7 @@ Procesamiento y análisis de grandes volúmenes de datos para la optimización d
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronaldt--Leal-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ronaldt-leal-b629ba346/)
 [![Email](https://img.shields.io/badge/Email-ronaldtleal11-D14836?style=flat&logo=gmail)](mailto:ronaldtleal11@gmail.com)
