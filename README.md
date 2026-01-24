@@ -178,6 +178,14 @@ Codecademy
 
 </td>
 </tr>
+<tr>
+<td align="center">
+
+📜 **Customer Segmentation in Python**  
+DataCamp
+
+</td>
+</tr>
 </table>
 
 ---
