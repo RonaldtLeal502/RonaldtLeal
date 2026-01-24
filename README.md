@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Ronaldt Leal
+# Ronaldt Leal
 ### Ingeniero de Datos e Inteligencia Organizacional
 
 <p align="center">
@@ -15,7 +15,7 @@ Recién egresado con enfoque en la arquitectura y análisis de datos. Mi objetiv
 
 <div align="center">
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 </div>
 
@@ -23,7 +23,7 @@ Recién egresado con enfoque en la arquitectura y análisis de datos. Mi objetiv
 <tr>
 <td align="center" width="50%">
 
-### 💻 Lenguajes y Bases de Datos
+### Lenguajes y Bases de Datos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,7 +33,7 @@ Recién egresado con enfoque en la arquitectura y análisis de datos. Mi objetiv
 </td>
 <td align="center" width="50%">
 
-### 📊 Análisis y Visualización
+### Análisis y Visualización
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -45,7 +45,7 @@ Recién egresado con enfoque en la arquitectura y análisis de datos. Mi objetiv
 <tr>
 <td align="center" colspan="2">
 
-### 🔧 Frameworks y Entornos
+### Frameworks y Entornos
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -60,11 +60,11 @@ Recién egresado con enfoque en la arquitectura y análisis de datos. Mi objetiv
 
 <div align="center">
 
-## 💼 Proyectos Destacados
+## Proyectos Destacados
 
 </div>
 
-### 🔧 Sistema de Gestión de Materiales | Lab. de Electrónica
+### Sistema de Gestión de Materiales | Lab. de Electrónica
 *Universidad del Caribe*
 
 Plataforma integral para la administración y control de inventario, optimizando el flujo de activos del laboratorio.
@@ -73,21 +73,21 @@ Plataforma integral para la administración y control de inventario, optimizando
 <tr>
 <td width="33%">
 
-**📌 Desarrollo**
+**Desarrollo**
 
 Creación de base de datos relacional y aplicación web para control de stock en tiempo real.
 
 </td>
 <td width="33%">
 
-**🎯 Impacto**
+**Impacto**
 
 Digitalización completa del proceso de préstamo y devolución de componentes.
 
 </td>
 <td width="34%">
 
-**⚙️ Tecnologías**
+**Tecnologías**
 
 `React` `SQL` `Material UI`
 
@@ -102,7 +102,7 @@ Digitalización completa del proceso de préstamo y devolución de componentes.
 
 ---
 
-### 📊 Análisis de Sábanas Telefónicas | FarFay Group
+### Análisis de Sábanas Telefónicas | FarFay Group
 *Business Intelligence & Optimization*
 
 Procesamiento y análisis de grandes volúmenes de datos para la optimización de costos operativos.
@@ -111,21 +111,21 @@ Procesamiento y análisis de grandes volúmenes de datos para la optimización d
 <tr>
 <td width="33%">
 
-**📌 Desarrollo**
+**Desarrollo**
 
 Pipeline de limpieza de datos y creación de tableros dinámicos de costos y tendencias.
 
 </td>
 <td width="33%">
 
-**🎯 Impacto**
+**Impacto**
 
 Identificación de patrones de consumo y oportunidades de ahorro directo.
 
 </td>
 <td width="34%">
 
-**⚙️ Tecnologías**
+**Tecnologías**
 
 `Python` `Power BI` `SQL`
 
@@ -142,7 +142,7 @@ Identificación de patrones de consumo y oportunidades de ahorro directo.
 
 <div align="center">
 
-## 🎓 Educación y Certificaciones
+## Educación y Certificaciones
 
 </div>
 
@@ -150,7 +150,7 @@ Identificación de patrones de consumo y oportunidades de ahorro directo.
 <tr>
 <td align="center">
 
-🎓 **Ingeniería de Datos e Inteligencia Organizacional**  
+**Ingeniería de Datos e Inteligencia Organizacional**  
 Universidad del Caribe (2021-2026)
 
 </td>
@@ -158,7 +158,7 @@ Universidad del Caribe (2021-2026)
 <tr>
 <td align="center">
 
-📜 **Google Data Analytics Professional Certificate**  
+**Google Data Analytics Professional Certificate**  
 Coursera
 
 </td>
@@ -166,14 +166,14 @@ Coursera
 <tr>
 <td align="center">
 
-📜 **Tableau Desktop Specialist**
+**Tableau Desktop Specialist**
 
 </td>
 </tr>
 <tr>
 <td align="center">
 
-📜 **SQL para Análisis de Datos**  
+**SQL para Análisis de Datos**  
 Codecademy
 
 </td>
@@ -181,8 +181,16 @@ Codecademy
 <tr>
 <td align="center">
 
-📜 **Customer Segmentation in Python**  
+**Customer Segmentation in Python**  
 DataCamp
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**AWS Academy Graduate - Cloud Foundations**  
+Amazon Web Services
 
 </td>
 </tr>
@@ -192,7 +200,7 @@ DataCamp
 
 <div align="center">
 
-## 📈 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RonaldtLeal502&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -205,7 +213,7 @@ DataCamp
 
 <div align="center">
 
-## 📫 Contacto
+## Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronaldt--Leal-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronaldt-leal-b629ba346/)
 [![Email](https://img.shields.io/badge/Email-ronaldtleal11-D14836?style=for-the-badge&logo=gmail)](mailto:ronaldtleal11@gmail.com)
