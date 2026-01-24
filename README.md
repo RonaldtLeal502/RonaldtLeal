@@ -200,11 +200,19 @@ Amazon Web Services
 
 <div align="center">
 
-## Estadísticas de GitHub
+## Actividad en GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RonaldtLeal502&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldtLeal502&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RonaldtLeal502&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RonaldtLeal502&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldtLeal502&layout=compact&theme=radical&langs_count=6"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonaldtLeal502&theme=radical&hide_border=true&custom_title=Historial%20de%20Contribuciones"/>
 </p>
 
 </div>
