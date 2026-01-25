@@ -127,7 +127,7 @@ Identificación de patrones de consumo y oportunidades de ahorro directo.
 
 **Tecnologías**
 
-`Python` `Power BI` `SQL`
+`Python` `React` `Javascript`
 
 </td>
 </tr>
