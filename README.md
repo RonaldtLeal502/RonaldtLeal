@@ -64,7 +64,7 @@ Recién egresado con enfoque en la arquitectura y análisis de datos. Mi objetiv
 
 </div>
 
-### Sistema de Gestión de Materiales | Lab. de Electrónica
+###  Proyecto Terminal Sistema de Gestión de Materiales | Lab. de Electrónica Unicaribe
 *Universidad del Caribe*
 
 Plataforma integral para la administración y control de inventario, optimizando el flujo de activos del laboratorio.
