@@ -64,7 +64,7 @@ Recién egresado con enfoque en la arquitectura y análisis de datos. Mi objetiv
 
 </div>
 
-###  Proyecto Terminal Sistema de Gestión de Materiales | Lab. de Electrónica Unicaribe
+###  Proyecto Terminal: Sistema de Gestión de Materiales | Lab. de Electrónica Unicaribe
 *Universidad del Caribe*
 
 Plataforma integral para la administración y control de inventario, optimizando el flujo de activos del laboratorio.
@@ -102,7 +102,7 @@ Digitalización completa del proceso de préstamo y devolución de componentes.
 
 ---
 
-### Análisis de Sábanas Telefónicas | FarFay Group
+### Proyecto Práticas Profesionales Análisis de Sábanas Telefónicas | FarFay Group
 *Business Intelligence & Optimization*
 
 Procesamiento y análisis de grandes volúmenes de datos para la optimización de costos operativos.
