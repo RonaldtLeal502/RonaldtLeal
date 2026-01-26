@@ -136,8 +136,9 @@ Identificación de patrones de consumo y oportunidades de ahorro directo.
 
 <p align="center">
   <img width="48%" src="https://github.com/user-attachments/assets/a88d67f1-ebdd-4f7b-b72f-80c5e8ba7321" />
-  <img width="48%" src="https://github.com/user-attachments/assets/bfffa498-b7ef-405f-8db6-fa02b7149695" />
   <img width="48%" src="https://github.com/user-attachments/assets/efe06385-dfd8-480e-b6e7-06573cff350f" />
+  <img width="48%" src="https://github.com/user-attachments/assets/bfffa498-b7ef-405f-8db6-fa02b7149695" />
+  
 </p>
 
 ---
