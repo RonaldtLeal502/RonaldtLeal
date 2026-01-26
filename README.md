@@ -98,7 +98,6 @@ Digitalización completa del proceso de préstamo y devolución de componentes.
 <p align="center">
   <img width="48%" src="https://github.com/user-attachments/assets/406d9f7e-5399-4e1f-a269-cb666bec18a6" />
   <img width="48%" src="https://github.com/user-attachments/assets/71e46c0d-0ab1-476c-8e08-5d9ab8801ebe" />
-  <img width="48%" src="https://github.com/user-attachments/assets/bfffa498-b7ef-405f-8db6-fa02b7149695" />
 
 </p>
 
@@ -137,7 +136,8 @@ Identificación de patrones de consumo y oportunidades de ahorro directo.
 
 <p align="center">
   <img width="48%" src="https://github.com/user-attachments/assets/a88d67f1-ebdd-4f7b-b72f-80c5e8ba7321" />
-  <img width="48%" src="https://github.com/user-attachments/assets/d7348f05-c3db-4220-b41e-1c11a0c188cd" />
+  <img width="48%" src="https://github.com/user-attachments/assets/bfffa498-b7ef-405f-8db6-fa02b7149695" />
+  <img width="48%" src="https://github.com/user-attachments/assets/efe06385-dfd8-480e-b6e7-06573cff350f" />
 </p>
 
 ---
