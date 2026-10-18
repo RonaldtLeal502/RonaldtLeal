@@ -19,11 +19,9 @@ Construyo pipelines, bases de datos y tableros que ayudan a las empresas a ahorr
 
 ## Sobre mí
 
-Ingeniero de Datos recién egresado de la **Universidad del Caribe (2021-2026)**. Me muevo en todo el ciclo del dato: modelado de bases de datos, limpieza y transformación con Python y SQL, y visualización en Power BI y Tableau, además de desarrollo web con React para entregar soluciones usables.
+Soy Ingeniero de Datos e Inteligencia Organizacional, egresado de la **Universidad del Caribe** en Cancún. Durante la carrera y mis prácticas profesionales trabajé con datos de principio a fin: diseñar la base de datos, limpiar y transformar la información con Python y SQL, y presentarla en tableros o aplicaciones web que otras personas puedan usar.
 
-- 🔭 Buscando mi primera posición como **Analista de Datos / Ingeniero de Datos / BI Developer**
-- 🛠️ Me gusta cerrar el ciclo completo: del dato crudo al tablero que usa el negocio
-- 🌱 Aprendiendo: arquitectura en la nube (AWS) y automatización de pipelines
+Me interesa que el análisis termine en algo útil para quien toma decisiones, no solo en un reporte bonito. Ahora estoy buscando mi primera oportunidad como **analista de datos, ingeniero de datos o desarrollador de BI**, y sigo aprendiendo sobre servicios en la nube con AWS.
 
 ---
 
@@ -86,16 +84,51 @@ Ingeniero de Datos recién egresado de la **Universidad del Caribe (2021-2026)**
 
 ---
 
-## Actividad en GitHub
+## Qué puedo aportar a tu equipo
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RonaldtLeal502&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldtLeal502&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+<table>
+<tr>
+<td width="25%" align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=RonaldtLeal502&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
+### 🧹
+**Preparación de datos**
+
+Limpieza, validación y transformación de datos desordenados con Python, Pandas y SQL.
+
+</td>
+<td width="25%" align="center">
+
+### 🗄️
+**Modelado de bases de datos**
+
+Diseño de bases relacionales y consultas SQL eficientes para análisis y aplicaciones.
+
+</td>
+<td width="25%" align="center">
+
+### 📊
+**Tableros y reportes**
+
+Visualizaciones claras en Power BI, Tableau y Looker Studio orientadas a decisiones.
+
+</td>
+<td width="25%" align="center">
+
+### 🌐
+**Soluciones web**
+
+Aplicaciones con React que llevan el análisis a usuarios que no son técnicos.
+
+</td>
+</tr>
+</table>
+
+### Cómo trabajo
+
+1. **Entender** la pregunta de negocio antes de tocar los datos.
+2. **Preparar** y validar la información con pipelines reproducibles.
+3. **Analizar** y visualizar con un enfoque en el hallazgo, no solo en el gráfico.
+4. **Entregar** una solución que el equipo pueda usar y mantener.
 
 ---
 
